@@ -1,0 +1,30 @@
+section {
+  margin: 20px 0;
+}
+
+.balance {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.history {
+  max-width: 700px;
+  margin: 30px auto 0;
+}
+
+.history li {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+  padding: 20px 0;
+}
+
+.history li p {
+  padding: 0 20px;
+}
+
+.history a {
+  flex: 1;
+  text-decoration: underline;
+  color: rgb(0, 140, 255);
+}
